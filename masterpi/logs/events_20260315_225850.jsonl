@@ -1,0 +1,3 @@
+{"ts": 1773604735.6852858, "event": "system.mode_changed", "payload": {"from": "IDLE", "to": "RUNNING", "ts": 1773604735.685261}}
+{"ts": 1773605924.5200572, "event": "system.stopped", "payload": {"ts": 1773605924.519974}}
+{"ts": 1773605924.5206342, "event": "system.mode_changed", "payload": {"from": "RUNNING", "to": "SHUTDOWN", "ts": 1773605924.520622}}
